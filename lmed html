@@ -1,0 +1,72 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lmed hardware</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="lmed css">
+</head>
+<body>
+    <nav>
+        <h1>LMED</h1>
+        <div class="onglets">
+            <a href="#">Home</a>
+            <a href="#activités">Nos activités</a>
+            <a href="#service">Nos services</a>
+        </div>
+    </nav>
+
+    <header>
+        <h1>Lmed,</h1>
+        <h4>Vente de matérielle et de solution informatiques.</h4>
+    </header>
+
+    <section class="main" id="activités">
+
+        <div class="content">
+            <div class="card">
+                <div class="left">
+                    <h1>Nos valeurs</h1>
+                    <p>Dynamisme Transparence Modernité Simplicité.</p>
+                </div>
+                <div class="right">
+                    
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="left">
+                    <h1>Nos activités</h1>
+                    <p>Nous mettons à votre disposition du matérielle et des logiciels informatiques à destination des parc informatiques ainsi que des services d'hébergement, de dépannage et de conseille. </p>
+                </div>
+    
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <section class="main" id="service">
+            <h1>Nos trois services !</h1> 
+        <div class="services">
+           
+            <div class="service">
+                <h3>Hébérgement</h3>
+                <p>Vous avez besoins de ressources et capacités de stockage ? Passez à l’hébergement Cloud sans risque et en toute tranquillité grâce à nos serveurs implantés en France.</p>
+            </div>
+
+            <div class="service">
+                <h3>Dépannage</h3>
+                <p>Vous avez besoin d’un service de dépannage et d’entretien de votre système informatique ? Découvrez l’infogérance et notre contrat de prestation en maintenance informatique illimitée.</p>
+            </div>
+
+            <div class="service">
+                <h3>Conseille</h3>
+                <p>Avec notre accompagnement personnalisé, ne vous souciez plus de votre système informatique. Notre expertise dans l’audit nous permettrons d’optimiser les performances de votre systèmes d'information et ainsi prévenir les incidents.</p>
+            </div>
+
+        </div>
+
+    </footer>
+</body>
+</html>
